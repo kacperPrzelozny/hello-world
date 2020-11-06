@@ -1,5 +1,2 @@
-# hello-world
-
-Hi!
-
-I'm Kacper
+siema elo
+ co tam?
